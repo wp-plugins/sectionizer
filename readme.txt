@@ -55,6 +55,7 @@ http://www.wpfruits.com/wp-content/uploads/2013/07/sczr31.png
 
 
 == Changelog ==
+1.0 First Release. 
 
 
 
