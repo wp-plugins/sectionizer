@@ -1,5 +1,5 @@
 === Sectionizer WordPress Plugin ===
-Contributors: rahulbrilliant2004, tikendramaitry, Nishant Jain
+Contributors: Meghaa Nishant Jain, rahulbrilliant2004, tikendramaitry, 
 Donate link: http://www.wpfruits.com/
 Tags: reate multiple sections, sectionize your post/page, add sections to your post, divide post into sections with scrolling widget
 Requires at least: 3.0.1
