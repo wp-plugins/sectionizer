@@ -13,7 +13,7 @@ WP Sectionizer Plugin is a cool concept to reach to the desired sections of the 
 == Description ==
 WP Sectionizer Plugin is a cool concept to reach to the desired sections of the page to read the content of your requirement or interest.whenever user click any particular section name, it takes to that section's content, it saves your time of scrolling through the whole page, searching for any particular text content.
 
-Check demo here <a href=http://www.wpfruits.com/downloads/wp-plugins/wp-sectionizer-plugin/?ref=wp>http://www.wpfruits.com/downloads/wp-plugins/wp-sectionizer-plugin/ </a>
+Check demo here <a href="http://www.wpfruits.com/downloads/wp-plugins/wp-sectionizer-plugin/?ref=wp">http://www.wpfruits.com/downloads/wp-plugins/wp-sectionizer-plugin/ </a>
 
 -Upload the plugin folder to the /wp-content/plugins/ folder of your wordpress installation. Activate the plugin. You will see an option at the left bottom of the wordpress options in the left sidebar. Click on it to set the options
 -General settings This area provides you different options to set the Look and feel of your sectionizer, such as it background color, color, position, direction,and so on.
