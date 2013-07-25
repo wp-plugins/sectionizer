@@ -1,64 +1,66 @@
-=== Sectionizer Wordpress Plugin===
-Contributors: rahulbrilliant2004, tikendramaitry, Nishant Jain
-Donate link: http://www.wpfruits.com
-Tags: bulk plugin installer, multiple plugin installer, plugin centra, export plugins, import plugins
+=== Sectionizer WordPress Plugin ===
+Contributors: rahulbrilliant2004, tikendramaitry, Nishant Jain, Meghaa
+Donate link: wpfruits@gmail.com
+Tags: create multiple sections, sectionize your post/page, add sections to your post, divide post into sections with scrolling widget
 Requires at least: 3.0
-Tested up to: 3.5
-Stable tag: 1.0.0
+Tested up to: 3.5.2
+Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-You can install multiple plugins in one go with Multi Plugin Installer plugin.
+WP Sectionizer Plugin is a cool concept to reach to the desired sections of the page to read the content of your requirement or interest.whenever user click any particular section name, it takes to that section's content, it saves your time of scrolling through the whole page, searching for any particular text content.
 
 == Description ==
-This great plugin allows you to install multiple plugins at a time rather than going through a process of searching, installing and activating multiple plugins. All you need to do it put the names/url/path-to-zip of the plugin the text box and press install button and all those plugins will be installed for you. 
+WP Sectionizer Plugin is a cool concept to reach to the desired sections of the page to read the content of your requirement or interest.whenever user click any particular section name, it takes to that section's content, it saves your time of scrolling through the whole page, searching for any particular text content.
 
-This plugin all allows you to install multiple plugins from your local computer by selecting them all together and installing them in one go. 
-
-Multi Plugin Installer also allows you to export the mpi file and import it on another WordPress installation so that you can get all the plugins installed there too. 
-
-Multi Plugin Installer allows you to take a backup of all the plugins and install it on another WordPress installation in one go. 
-
-Click here to know more about how to use the plugin <a href="http://www.wpfruits.com/downloads/wp-plugins/multi-plugin-installer/">http://www.wpfruits.com/downloads/wp-plugins/multi-plugin-installer/</a>
+-Upload the plugin folder to the /wp-content/plugins/ folder of your wordpress installation. Activate the plugin. You will see an option at the left bottom of the wordpress options in the left sidebar. Click on it to set the options
+-General settings This area provides you different options to set the Look and feel of your sectionizer, such as it background color, color, position, direction,and so on.
+-Social Netwok You have to add the link to your social networking sites in order to show them in your sectionizer. Option to show back to top button in your sectionizer.
+-Create sections In this area you have to provide caption for your sections which you want to show in your sectionizer. You can add as many sections as you want to insert in your any particular sections by clicking on add new button, or can even remove them by clicking on remove button respectively.
+-Now in your pages and post you will see an option to add sectionizer to them. check it to add sectionizer to nay particular post or page. You will see a select box, select the particular sectionizer you want for that particular post or page. after selecting the -sectionizer for the post or page, The textarea would appear where you can add content according to the number of sections add to that particular sectionizer.
 
 
 
 =Features  =
-This great plugin allows you to install multiple plugins at a time rather than going through a process of searching, installing and activating multiple plugins. All you need to do it put the names/url/path-to-zip of the plugin the text box and press install button and all those plugins will be installed for you. 
+	-Upload the plugin folder to the /wp-content/plugins/ folder of your wordpress installation. Activate the plugin. You will 	see an option at the left bottom of the wordpress options in the left sidebar. Click on it to set the options
+	-General settings This area provides you different options to set the Look and feel of your sectionizer, such as it 	background color, color, position, direction,and so on.
+	-Social Netwok You have to add the link to your social networking sites in order to show them in your sectionizer. Option to 	show back to top button in your sectionizer.
+	-Create sections In this area you have to provide caption for your sections which you want to show in your sectionizer. You 	can add as many sections as you want to insert in your any particular sections by clicking on add new button, or can even 	remove them by clicking on remove button respectively.
+	-Now in your pages and post you will see an option to add sectionizer to them. check it to add sectionizer to nay particular 	post or page. You will see a select box, select the particular sectionizer you want for that particular post or page. after 	selecting the -sectionizer for the post or page, The textarea would appear where you can add content according to the number 	of sections add to that particular sectionizer.
 
-This plugin all allows you to install multiple plugins from your local computer by selecting them all together and installing them in one go. 
-
-Multi Plugin Installer also allows you to export the mpi file and import it on another WordPress installation so that you can get all the plugins installed there too. 
-
-Multi Plugin Installer allows you to take a backup of all the plugins and install it on another WordPress installation in one go. 
-
-Click here to know more about how to use the plugin <a href="http://www.wpfruits.com/downloads/wp-plugins/multi-plugin-installer/">http://www.wpfruits.com/downloads/wp-plugins/multi-plugin-installer/</a>
 
 
 == Installation ==
-    Upload the plugin folder to the /wp-content/plugins/ folder of your WordPress installation.
-    Activate the plugin. 
-    You will see an option at the left bottom of the WordPress options in the left sidebar.
-    Click on it to set the options
-    Get going…
+    
+   	-Upload the plugin folder to the /wp-content/plugins/ folder of your wordpress installation.
+	-Activate the plugin.
+	-You will see an option at the left bottom of the wordpress options in the left sidebar.
+	-Click on it to set the options
+	-Then just create a new Sectionizer or edit the existing one . 
 
-Click here to know more about how to use the plugin <a href="http://www.wpfruits.com/downloads/wp-plugins/multi-plugin-installer/">http://www.wpfruits.com/downloads/wp-plugins/multi-plugin-installer/</a>
+
 
 
 == Frequently asked questions ==
 
-= A question that someone might have =
-Click here to know more about how to use the plugin <a href="http://www.wpfruits.com/downloads/wp-plugins/multi-plugin-installer/">http://www.wpfruits.com/downloads/wp-plugins/multi-plugin-installer/</a>
+= I will add them as I get them =
+
+An answer to that question.
 
 == Screenshots ==
-1. The settings page.
+http://www.wpfruits.com/wp-content/uploads/2013/07/8-positions_960.jpg
+http://www.wpfruits.com/wp-content/uploads/2013/07/sczr12.png
+http://www.wpfruits.com/wp-content/uploads/2013/07/sczr2.png
+http://www.wpfruits.com/wp-content/uploads/2013/07/sczr31.png
 
 
 == Changelog ==
-= Version 1.0.1 =
-First release - no changes
+
+
 
 == Upgrade notice ==
-For better performance please upgrade quickly.
+
+
 
 == Arbitrary section 1 ==
+
