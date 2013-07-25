@@ -4,11 +4,11 @@ Donate link: http://www.wpfruits.com/
 Tags: create multiple sections, sectionize your post/page, add sections to your post, divide post into sections with scrolling widget
 Requires at least: 3.0
 Tested up to: 3.5.2
-Stable tag: 1.0.0
+Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-WP Sectionizer Plugin is a cool concept to reach to the desired sections of the page to read the content of your requirement or interest.whenever user click any particular section name, it takes to that section's content, it saves your time of scrolling through the whole page, searching for any particular text content.
+WP Sectionizer Plugin is a cool concept to reach to the desired sections of the page to read the content of your requirement or interest.
 
 == Description ==
 WP Sectionizer Plugin is a cool concept to reach to the desired sections of the page to read the content of your requirement or interest.whenever user click any particular section name, it takes to that section's content, it saves your time of scrolling through the whole page, searching for any particular text content.
