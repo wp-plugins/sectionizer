@@ -30,6 +30,8 @@ WP Sectionizer Plugin is a cool concept to reach to the desired sections of the 
 WP Sectionizer Plugin is a cool concept to reach to the desired sections of the page to read the content of your requirement or interest.whenever user click any particular section name, it takes to that section's content, it saves your time of scrolling through the whole page, searching for any particular text content.
 
 
+
+
 Check Demo here <a href="http://www.wpfruits.com/downloads/wp-plugins/wp-sectionizer-plugin/?ref=wporg">http://www.wpfruits.com/downloads/wp-plugins/wp-sectionizer-plugin/</a>
 
 
