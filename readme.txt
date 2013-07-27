@@ -1,6 +1,6 @@
 === Sectionizer WordPress Plugin ===
 
-Contributors: Meghaa, Nishant Jain, rahulbrilliant2004, tikendramaitry
+Contributors: meghaa, Nishant Jain, rahulbrilliant2004, tikendramaitry
 
 Donate link: http://www.wpfruits.com/
 
