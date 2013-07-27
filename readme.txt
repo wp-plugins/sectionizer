@@ -57,14 +57,10 @@ Check Demo here <a href="http://www.wpfruits.com/downloads/wp-plugins/wp-section
 
 
 == Screenshots ==
-http://www.wpfruits.com/wp-content/uploads/2013/07/8-positions_960.jpg
-
-http://www.wpfruits.com/wp-content/uploads/2013/07/sczr12.png
-
-http://www.wpfruits.com/wp-content/uploads/2013/07/sczr2.png
-
-http://www.wpfruits.com/wp-content/uploads/2013/07/sczr31.png
-
+1. 8 various position to show Sectionizer.
+2. Table of Sectionizer.
+3. Sectionizer settings.
+4. Sectionizer page/post metabox.
 
 
 == Changelog ==
