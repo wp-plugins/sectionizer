@@ -72,6 +72,6 @@ http://www.wpfruits.com/wp-content/uploads/2013/07/sczr31.png
 
 
 == Upgrade notice ==
-Please upgrade quickly
+Please upgrade quickly.
 
 == Arbitrary section 1 ==
