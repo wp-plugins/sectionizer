@@ -10,7 +10,7 @@ Requires at least: 3.0.1
 
 Tested up to: 3.5.2
 
-Stable tag: 1.0
+Stable Tag: 1.0
 
 License: GPLv2 or later
 
@@ -57,14 +57,10 @@ Check Demo here <a href="http://www.wpfruits.com/downloads/wp-plugins/wp-section
 
 
 == Screenshots ==
-http://www.wpfruits.com/wp-content/uploads/2013/07/8-positions_960.jpg
-
-http://www.wpfruits.com/wp-content/uploads/2013/07/sczr12.png
-
-http://www.wpfruits.com/wp-content/uploads/2013/07/sczr2.png
-
-http://www.wpfruits.com/wp-content/uploads/2013/07/sczr31.png
-
+1. 8 various position to show Sectionizer.
+2. Table of Sectionizer.
+3. Sectionizer settings.
+4. Sectionizer page/post metabox.
 
 
 == Changelog ==
@@ -72,6 +68,6 @@ http://www.wpfruits.com/wp-content/uploads/2013/07/sczr31.png
 
 
 == Upgrade notice ==
-Please upgrade quickly
+Please upgrade quickly.
 
 == Arbitrary section 1 ==
