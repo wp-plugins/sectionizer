@@ -44,7 +44,7 @@ Check Demo here <a href="http://www.wpfruits.com/downloads/wp-plugins/wp-section
 2. Activate the plugin.
 3. You will see an option at the left bottom of the wordpress options in the left sidebar.
 4. Click on it to set the options
-5. Then just create a new Sectionizer or edit the existing one. 
+5. Then just create a new Sectionizer or edit the existing one . 
 
 == Frequently Asked Questions ==
 
