@@ -4,7 +4,7 @@ Plugin Name: Sectionizer Wordpress Plugin
 Plugin URI: http://www.wpfruits.com
 Description: WP Sectionizer Plugin is a cool concept to reach to the desired sections of the page to read the content of your requirement or interest.
 Author: meghaa, Nishant Jain, rahulbrilliant2004, tikendramaitry
-Version: 1.0.0
+Version: 1.0.1
 Author URI: http://www.wpfruits.com
 */
 
